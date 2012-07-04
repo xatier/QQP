@@ -1,0 +1,16 @@
+A
+    itorator
+B
+    C++ string class in textbook
+    S
+    expansion self
+    dynaic allocation when no space
+    copy asignment dealing with 'this'
+C
+    deque                   // using doubly LL
+    pointer adjustment      // two pointers(?)
+D
+    vector
+    C++11 move    
+
+on BSD workstation
